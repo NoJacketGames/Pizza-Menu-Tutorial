@@ -27,6 +27,7 @@ function App() {
 
   return (
     <>
+      <h1>hello world</h1>
       <button className="close" onClick={(is) => !is}>
         &times;
       </button>
